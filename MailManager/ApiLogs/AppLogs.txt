@@ -1,0 +1,311 @@
+2021-09-27 22:16:20.058 +04:00 [INF] Mail Consumer starts.
+2021-09-27 22:16:27.768 +04:00 [INF] Application is shutting down...
+2021-09-27 22:16:41.034 +04:00 [INF] Mail Consumer starts.
+2021-09-27 22:16:51.358 +04:00 [INF] Now listening on: https://localhost:5001
+2021-09-27 22:16:51.360 +04:00 [INF] Now listening on: http://localhost:5000
+2021-09-27 22:16:51.360 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-27 22:16:51.360 +04:00 [INF] Hosting environment: Development
+2021-09-27 22:16:51.360 +04:00 [INF] Content root path: C:\Users\Kenan\projectsATL\MailManager\MailManager
+2021-09-27 22:17:00.022 +04:00 [INF] 10:17:00 Mail Consumer is working.
+2021-09-27 22:21:13.238 +04:00 [INF] Mail Consumer starts.
+2021-09-27 22:21:23.578 +04:00 [INF] Now listening on: https://localhost:5001
+2021-09-27 22:21:23.579 +04:00 [INF] Now listening on: http://localhost:5000
+2021-09-27 22:21:23.579 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-27 22:21:23.579 +04:00 [INF] Hosting environment: Development
+2021-09-27 22:21:23.579 +04:00 [INF] Content root path: C:\Users\Kenan\projectsATL\MailManager\MailManager
+2021-09-27 22:21:46.694 +04:00 [INF] Application is shutting down...
+2021-09-27 22:21:46.711 +04:00 [INF] Mail Consumer is stopping.
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.16)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 16
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.19)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 19
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.15)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 15
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.20)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 20
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.18)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 18
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.16)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 16
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.17)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 17
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.18)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 18
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.17)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 17
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.14)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 14
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.13)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 13
+
+)
+09/27/2021 23:04:05 Subject: (Mail Manager Message No.12)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 12
+
+)
+09/27/2021 23:04:06 Subject: (Mail Manager Message No.11)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 11
+
+)
+09/27/2021 23:04:06 Subject: (Mail Manager Message No.10)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 10
+
+)
+09/27/2021 23:04:06 Subject: (Mail Manager Message No.9)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 9
+
+)
+09/27/2021 23:04:06 Subject: (Mail Manager Message No.8)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 8
+
+)
+09/27/2021 23:04:06 Subject: (Mail Manager Message No.7)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 7
+
+)
+09/27/2021 23:04:06 Subject: (Mail Manager Message No.6)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 6
+
+)
+09/27/2021 23:04:06 Subject: (Mail Manager Message No.5)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 5
+
+)
+09/27/2021 23:04:06 Subject: (Mail Manager Message No.19)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 19
+
+)
+09/27/2021 23:04:06 Subject: (Mail Manager Message No.4)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is message number 4
+
+)
+09/27/2021 23:12:15 Subject: (Mail From Producer, Message 19)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 19.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 20)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 20.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 18)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 18.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 17)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 17.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 16)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 16.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 15)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 15.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 14)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 14.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 13)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 13.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 12)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 12.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 11)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 11.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 10)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 10.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 9)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 9.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 8)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 8.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 7)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 7.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 6)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 6.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 5)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 5.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 4)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 4.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 3)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 3.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 2)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 2.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 1)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 1.
+
+)
+09/27/2021 23:12:16 Subject: (Mail From Producer, Message 8)  Message: (
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is messge number 8.
+
+)
